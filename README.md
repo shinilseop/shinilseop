@@ -2,9 +2,10 @@
 
 ---
 
-:raised_hand: BackEnd Developer<br>
-:pushpin: [My Blog](https://shinscode.tistory.com/)<br>
-:email: shinilseop12@gmail.com
+✋ BackEnd Developer<br>
+📌 [My Blog](https://shinscode.tistory.com/)<br>
+📧 shinilseop12@gmail.com<br>
+🏫 Kongju Univ. (Computer engineering)
 
 ---
 
