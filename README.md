@@ -20,6 +20,11 @@
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
 
+* Project
+  * 캡스톤 디자인 프로젝트 : [내 위치의 빛](https://github.com/shinilseop/Capstone_Design)
+  * 학부생 연구 프로젝트(창의재단 주관) : [자연광 기반 감성 제어를 실현하는 Tunable LED 조명](https://github.com/shinilseop/URP_kofac)
+  * 학부생 연구 프로젝트(공주대학교 주관)
+  * [에너지 고려 조명 제어 시스템](https://github.com/shinilseop/Light_System_407)
 
 * Card
 
