@@ -2,7 +2,7 @@
 
 ---
 
-✋ BackEnd Developer<br>
+🖥️ BackEnd Developer<br>
 📌 [My Blog](https://shinscode.tistory.com/)<br>
 📧 shinilseop12@gmail.com<br>
 🏫 Kongju Univ. (Computer engineering)
