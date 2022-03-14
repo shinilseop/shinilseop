@@ -1,16 +1,25 @@
-### Hi there 👋
+# 신일섭
 
-<!--
-**shinilseop/shinilseop** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+:raised_hand: BackEnd Developer<br>
+:pushpin: [My Blog](https://shinscode.tistory.com/)<br>
+:email: Email : shinilseop12@gmail.com
 
-Here are some ideas to get you started:
+Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=Java&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+Study
+
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+
+
+
+---
+* Card
+
+|Git Summary|BOJ Solve|
+|---|---|
+|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shinilseop&layout=compact)](https://github.com/shinilseop/github-readme-stats)|[![Solved.ac](http://mazassumnida.wtf/api/generate_badge?boj=shinilseop12)](https://solved.ac/profile/shinilseop12)|
