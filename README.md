@@ -18,7 +18,8 @@
 * Study
 
 ![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=orange)
+![MongoDB](https://img.shields.io/badge/-MongoDB-F7DF1E?style=flat-square&logo=MongoDB&logoColor=green)
 
 * Project
   * 캡스톤 디자인 프로젝트 : [내 위치의 빛](https://github.com/shinilseop/Capstone_Design)
